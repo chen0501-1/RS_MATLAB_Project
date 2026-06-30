@@ -1,5 +1,5 @@
 function num = gf2num(gf_vec)
-    % GF(2)多项式系数向量转十进制整数11
+    % GF(2)多项式系数向量转十进制整数13
     % gf_vec：二进制系数数组，gf_vec(1)为最高次项系数
     num = 0;
     len = length(gf_vec);
