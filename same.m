@@ -14,5 +14,4 @@ function flag = same(a,b)
     % 逐位异或，存在1则不相等
     xor_res = xor(a,b);
     flag = ~any(xor_res);
->>>>>>> 0cb7e1364c6a13a8f9fdbff78bf347ec425cb7fa
 end
