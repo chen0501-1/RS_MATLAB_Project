@@ -1,5 +1,5 @@
 % RS(7,3)编译码仿真主程序
-% 组长：陈海洋
+% 组长：陈海阳
 % 功能：统筹编码、信道噪声、译码、正确率统计全仿真流程
 % 依赖子函数：a_msg.m、rs_rscode.m、rs_interpret.m、gf2num.m、gf_dis.m、rs_code_dis.m、same.m
 clear; clc; close all;
